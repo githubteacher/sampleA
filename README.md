@@ -1,4 +1,3 @@
-sampleA
-=======
+# Sample A Repository
 
-My first project to learn about GitHub and the Git workflows
+My first project to learn about GitHub and the Git workflows.
